@@ -2,7 +2,7 @@
 
 Data Summary : Hospital operations rooms utilization data for the booked procedures.
 
-Analysis objective: To do exploratory analysis and proving insights on usage of operation rooms to encounter the procedures.
+Analysis objective: To do exploratory analysis and providing insights on usage of operation rooms to encounter the procedures.
 
 Data definition :
 
