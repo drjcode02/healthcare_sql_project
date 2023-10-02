@@ -31,7 +31,6 @@ SQL:
 Alter warehouse PROJECT1_WH suspend/resume;
 Drop warehouse PROJECT1_WH;
 
----
 
 Rename the warehouse - alter warehouse if exists PROJECT1_WH rename to PROJECT2_WH;
 
