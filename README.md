@@ -1,5 +1,7 @@
 # Healthcare sql project in Snowflake
 
+Source of data set in Kaggle - https://www.kaggle.com/datasets/thedevastator/optimizing-operating-room-utilization
+
 Data Summary : Hospital operations rooms utilization data for the booked procedures.
 
 Analysis objective: To do exploratory analysis and providing insights on usage of operation rooms to encounter the procedures.
