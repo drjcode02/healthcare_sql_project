@@ -17,7 +17,7 @@ Create or replace warehouse PROJECT1_WH WITH
 
 /* how can check the existing warehouse or update the parameters of it*/
 
-Describe warehouse COMPUTE_WH; /* shows the details of warehouse like when it created and kind */
+Describe warehouse COMPUTE_WH; /* shows the details of warehouse */
 show warehouses; /*to check the properties of the warehouse and its status */
 Alter warehouse set COMMENT = 'Warehouse created for practice,Only the SYSADMIN role, or a higher role, has this privilege to create WH'; /*update the warehouse comment parameter*/
 
